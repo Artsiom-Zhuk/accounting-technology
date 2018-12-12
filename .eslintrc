@@ -1,0 +1,17 @@
+{
+    "extends": "airbnb-base",
+    "globals": {
+        "firebase": true,
+        "document": true,
+        "alert": true
+    },
+    "rules": {
+        "no-restricted-syntax": "off",
+        "guard-for-in":"off",
+        "prefer-destructuring": "off",
+        "no-bitwise":"off",
+        "no-loop-func":"off",
+        "no-const-assign": "off"
+    }
+
+}

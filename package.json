@@ -1,0 +1,21 @@
+{
+  "name": "accounting-technology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Artsiom Zhuk",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jsdom": "^13.0.0",
+    "mocha": "^5.2.0"
+  }
+}

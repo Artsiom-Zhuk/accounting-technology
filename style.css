@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #d3d3d3;
+}
+
+.head {
+    width: 100%;
+    height: 80px;
+    background-color: #696969ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleHeader {
+    font-size: 30px;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+
+.groupBtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cancelChange {
+    display: flex;
+    flex-direction: row;
+}
+
+.btnCancelChange {
+    width: 100%;
+    margin-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-right: 30px;
+}
+
+th {
+    width: 100px;
+    height: 40px;
+}
+
+tr {
+    height: 30px;
+    text-align: center;
+}
+
+.incrWidthTd {
+    width: 150px;
+}
+
+.searchInputGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+}
+
+.leftMargin5 {
+    margin-left: 5px;
+}
+
+.leftMargin70 {
+    margin-left: 70px;
+}
